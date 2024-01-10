@@ -1,0 +1,50 @@
+{
+    "columns": {
+        "season": {
+            "sdtype": "categorical"
+        },
+        "yr": {
+            "sdtype": "categorical"
+        },
+        "mnth": {
+            "sdtype": "categorical"
+        },
+        "hr": {
+            "sdtype": "categorical"
+        },
+        "holiday": {
+            "sdtype": "boolean"
+        },
+        "weekday": {
+            "sdtype": "categorical"
+        },
+        "workingday": {
+            "sdtype": "boolean"
+        },
+        "weathersit": {
+            "sdtype": "categorical"
+        },
+        "temp": {
+            "sdtype": "numerical"
+        },
+        "atemp": {
+            "sdtype": "numerical"
+        },
+        "hum": {
+            "sdtype": "numerical"
+        },
+        "windspeed": {
+            "sdtype": "numerical"
+        },
+        "casual": {
+            "sdtype": "numerical"
+        },
+        "registered": {
+            "sdtype": "numerical"
+        },
+        "cnt": {
+            "sdtype": "numerical"
+        }
+    },
+    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1"
+}

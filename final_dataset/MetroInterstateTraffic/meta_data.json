@@ -1,0 +1,33 @@
+{
+    "columns": {
+        "holiday": {
+            "sdtype": "categorical"
+        },
+        "temp": {
+            "sdtype": "numerical"
+        },
+        "rain_1h": {
+            "sdtype": "numerical"
+        },
+        "snow_1h": {
+            "sdtype": "numerical"
+        },
+        "clouds_all": {
+            "sdtype": "numerical"
+        },
+        "weather_main": {
+            "sdtype": "categorical"
+        },
+        "weather_description": {
+            "sdtype": "categorical"
+        },
+        "date_time": {
+            "sdtype": "datetime",
+            "datetime_format": "%Y-%m-%d %H:%M:%S"
+        },
+        "traffic_volume": {
+            "sdtype": "numerical"
+        }
+    },
+    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1"
+}

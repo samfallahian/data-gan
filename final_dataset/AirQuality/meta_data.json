@@ -1,0 +1,56 @@
+{
+    "columns": {
+        "CO(GT)": {
+            "sdtype": "numerical"
+        },
+        "PT08.S1(CO)": {
+            "sdtype": "numerical"
+        },
+        "NMHC(GT)": {
+            "sdtype": "numerical"
+        },
+        "C6H6(GT)": {
+            "sdtype": "numerical"
+        },
+        "PT08.S2(NMHC)": {
+            "sdtype": "numerical"
+        },
+        "NOx(GT)": {
+            "sdtype": "numerical"
+        },
+        "PT08.S3(NOx)": {
+            "sdtype": "numerical"
+        },
+        "NO2(GT)": {
+            "sdtype": "numerical"
+        },
+        "PT08.S4(NO2)": {
+            "sdtype": "numerical"
+        },
+        "PT08.S5(O3)": {
+            "sdtype": "numerical"
+        },
+        "T": {
+            "sdtype": "numerical"
+        },
+        "RH": {
+            "sdtype": "numerical"
+        },
+        "AH": {
+            "sdtype": "numerical"
+        },
+        "year": {
+            "sdtype": "categorical"
+        },
+        "month": {
+            "sdtype": "numerical"
+        },
+        "day": {
+            "sdtype": "numerical"
+        },
+        "hour": {
+            "sdtype": "numerical"
+        }
+    },
+    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1"
+}

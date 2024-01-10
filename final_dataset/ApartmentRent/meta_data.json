@@ -1,0 +1,28 @@
+{
+    "columns": {
+        "bathrooms": {
+            "sdtype": "numerical"
+        },
+        "bedrooms": {
+            "sdtype": "categorical"
+        },
+        "fee": {
+            "sdtype": "categorical"
+        },
+        "price": {
+            "sdtype": "numerical"
+        },
+        "square_feet": {
+            "sdtype": "numerical"
+        },
+        "cityname": {
+            "sdtype": "city",
+            "pii": true
+        },
+        "state": {
+            "sdtype": "administrative_unit",
+            "pii": true
+        }
+    },
+    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1"
+}

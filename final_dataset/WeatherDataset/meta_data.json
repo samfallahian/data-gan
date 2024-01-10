@@ -1,0 +1,36 @@
+{
+    "columns": {
+        "Formatted Date": {
+            "sdtype": "datetime",
+            "datetime_format": "%Y-%m-%d %H:%M:%S"
+        },
+        "Summary": {
+            "sdtype": "categorical"
+        },
+        "Precip Type": {
+            "sdtype": "categorical"
+        },
+        "Temperature (C)": {
+            "sdtype": "numerical"
+        },
+        "Apparent Temperature (C)": {
+            "sdtype": "numerical"
+        },
+        "Humidity": {
+            "sdtype": "numerical"
+        },
+        "Wind Speed (km/h)": {
+            "sdtype": "numerical"
+        },
+        "Wind Bearing (degrees)": {
+            "sdtype": "numerical"
+        },
+        "Visibility (km)": {
+            "sdtype": "numerical"
+        },
+        "Pressure (millibars)": {
+            "sdtype": "numerical"
+        }
+    },
+    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1"
+}
