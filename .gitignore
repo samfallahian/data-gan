@@ -2,4 +2,6 @@ dataset
 venv
 env
 .idea
-final_dataset
+final_dataset/HAR70
+final_dataset/HouseholdPowerConsumption
+final_dataset/MetroPTDataset
